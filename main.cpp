@@ -15,8 +15,8 @@ void write(ofstream &out, sheep * avis, int rows);
 
 int main()
 {
-    ifstream in("U1.txt");
-    ofstream out("U1rez.txt");
+    ifstream in("U2.txt");
+    ofstream out("U2rez.txt");
 
 
     //kintamieji
